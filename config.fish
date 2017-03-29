@@ -21,3 +21,6 @@ alias dl='docker ps -l -q'
 alias zcat='gzcat'
 
 set -x SVN_EDITOR vim
+
+#theme
+set -g theme_powerline_fonts no
